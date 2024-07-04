@@ -1,2 +1,2 @@
 # genai_engineering_db
-Repo that containis all the labs for the GenAI Engineering Databricks course
+Repo that containis samples based on the GenAI Engineering Databricks course
